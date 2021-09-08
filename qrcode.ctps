@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="qrcode.ppr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="10"/>
+        <CursorPos X="37" Y="13"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="qrcode.app.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="32"/>
+        <CursorPos X="16" Y="44"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="qrcode.mainform.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="74"/>
+        <CursorPos X="38" Y="55"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\systemh.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="927"/>
+        <CursorPos X="18" Y="932"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\lcl\graphics.pp"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1308"/>
+        <CursorPos X="3" Y="1492"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="16">
+      <Position>
+        <Filename Value="qrcode.app.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="qrcode.app.pas"/>
+        <Caret Line="36" Column="10" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="qrcode.mainform.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="qrcode.mainform.pas"/>
+        <Caret Line="42" Column="4" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="qrcode.mainform.pas"/>
+        <Caret Line="48" Column="29" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="qrcode.mainform.pas"/>
+        <Caret Line="53" Column="55" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="qrcode.mainform.pas"/>
+        <Caret Line="60" Column="28" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="qrcode.mainform.pas"/>
+        <Caret Line="49" Column="16" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="qrcode.mainform.pas"/>
+        <Caret Line="50" Column="51" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="qrcode.mainform.pas"/>
+        <Caret Line="52" Column="51" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="qrcode.mainform.pas"/>
+        <Caret Line="73" Column="32" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="qrcode.mainform.pas"/>
+        <Caret Line="53" Column="5" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="qrcode.mainform.pas"/>
+        <Caret Line="79" Column="3" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="qrcode.app.pas"/>
+        <Caret Line="41" Column="10" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="qrcode.mainform.pas"/>
+        <Caret Line="80" Column="49" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="qrcode.app.pas"/>
+        <Caret Line="16" Column="12" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="qrcode.mainform.pas"/>
+        <Caret Line="86" Column="49" TopLine="70"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
